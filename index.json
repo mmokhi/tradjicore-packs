@@ -1,0 +1,68 @@
+[
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "de",
+        "from_name": "German",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/de_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "ar",
+        "to_name": "Arabic",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/en_ar.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "de",
+        "to_name": "German",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/en_de.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "fa",
+        "to_name": "Persian",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/en_fa.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "fr",
+        "to_name": "French",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/en_fr.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
+        "from_code": "fr",
+        "from_name": "French",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/fr_en.argosmodel"
+        ]
+    }
+]
