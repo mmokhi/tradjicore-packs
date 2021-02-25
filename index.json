@@ -57,6 +57,17 @@
     {
         "package_version": "1.0",
         "argos_version": "1.0",
+        "from_code": "fa",
+        "from_name": "Persian",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://raw.githubusercontent.com/mmokhi/tradjicore-packs/master/fa_en.argosmodel"
+        ]
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.0",
         "from_code": "fr",
         "from_name": "French",
         "to_code": "en",
